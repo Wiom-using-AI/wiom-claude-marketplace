@@ -1,0 +1,10 @@
+{
+  "name": "wiom-analytics",
+  "description": "Exhaustive WiOM growth + ops diagnostic playbook — discovery-first, canonical-metric-driven (semantic layer -> Snowflake), raw-table & transcript-aware, ends in a shareable .md with every number traced to a source. Provides the /wiom-diagnose command.",
+  "version": "0.1.0",
+  "author": {
+    "name": "WiOM Analytics Platform",
+    "email": "analytics@wiom.in"
+  },
+  "keywords": ["wiom", "analytics", "diagnostic", "growth", "operations", "funnel", "snowflake"]
+}

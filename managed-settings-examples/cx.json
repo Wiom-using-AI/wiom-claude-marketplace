@@ -1,0 +1,8 @@
+{
+  "extraKnownMarketplaces": {
+    "wiom": {
+      "source": { "source": "github", "repo": "your-org/wiom-claude-marketplace" }
+    }
+  },
+  "enabledPlugins": ["wiom-analytics@wiom", "wiom-cx@wiom"]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "wiom",
+  "owner": {
+    "name": "WiOM Analytics Platform",
+    "email": "analytics@wiom.in"
+  },
+  "metadata": {
+    "description": "WiOM internal Claude Code tools — analytics diagnostics and per-function playbooks.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "wiom-analytics",
+      "source": "./plugins/wiom-analytics",
+      "description": "Exhaustive WiOM growth + ops diagnostic playbook. Provides /wiom-diagnose. Enable for ALL functions.",
+      "version": "0.1.0",
+      "category": "analytics"
+    }
+  ]
+}
